@@ -16,7 +16,7 @@ There repository contains two principal files:
   - The number of neighbors to search in each query.
   - The maximum number of vectors to explore in the dataset.
 
-The input files format for these code source files are:
+The input files format for these source code files are:
 
 - Files containing the dataset feature vectors (for index construction) need to be in the format of binary ".fvecs" files.
 - Files containing the test set feature vectors (the queries) need to be in the format of binary ".fvecs" files.
