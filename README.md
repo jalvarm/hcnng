@@ -1,5 +1,5 @@
 # HCNNG
-This is the implementation of the Hierarquical Clustering-based Nearest Neighbors Graphs, a extremely efficient and accurate tecnique for approximate nearest neighbor search, that have shown to outperform classical Tree-based indexing schemes and other recent nearest neighbor graphs (as the **HNSW**). 
+This is the implementation of the Hierarquical Clustering-based Nearest Neighbors Graphs, a efficient and accurate tecnique for approximate nearest neighbor search, that have shown to outperform classical Tree-based indexing schemes and other recent nearest neighbor graphs (like the **HNSW**). 
 
 There repository contains two principal files:
 
