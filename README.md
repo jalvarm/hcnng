@@ -1,8 +1,8 @@
 # HCNNG
 This is the implementation of the Hierarquical Clustering-based Nearest Neighbors Graphs. There are two principal files:
 
-- *hcnng.cpp*: this files creates the graph-based index.
-- 
+- **hcnng.cpp**: this file creates the graph-based index.
+- **search.cpp**: this file perform the search over the index created by **hcnng.cpp**.
 
 The input files format are:
 
