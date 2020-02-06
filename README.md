@@ -1,7 +1,7 @@
 # HCNNG
 This is the implementation of the Hierarquical Clustering-based Nearest Neighbors Graphs, an efficient and accurate tecnique for approximate nearest neighbor search, that have shown to outperform classical Tree-based indexing schemes and other recent nearest neighbor graphs (like the **HNSW**). 
 
-There repository contains two principal files:
+This repository contains two principal files:
 
 - **hcnng.cpp**: this file creates the graph-based index. The compiled executable will receive the following parameters (in the same order):
   - File containing the dataset feature vectors for creation of the index.
