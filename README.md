@@ -76,7 +76,7 @@ Recall@1(6309):	99.97
 Recall@1(7943):	99.98
 Recall@1(9999):	99.99
 ```
-by setting the maximum-number-of-calculation parameter to -1, the code will print the recall obtained for the points showed in the results Figures of the paper.
+by setting the maximum-number-of-calculation parameter to -1, the code will print the recall obtained for the points showed in the Figures of the paper.
 
 ## Reference
 
