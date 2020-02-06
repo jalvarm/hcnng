@@ -31,7 +31,7 @@ Each file contains the command line for compilation. There is no other fancy lib
 
 ## Use
 
-Here is an example of the command needed for execution of the source code. For this purpose, please download the *ANN_SIFT1M* dataset from http://corpus-texmex.irisa.fr and unzip the same directory of the source code.
+Here is an example of the command needed for execution of the source code. For this purpose, please download the *ANN_SIFT1M* dataset from http://corpus-texmex.irisa.fr and unzip it in the same directory of the source code.
 
 For index construction run:
 ```
