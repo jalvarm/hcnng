@@ -43,7 +43,7 @@ For evaluation on a test set of queries run:
 ```
 $ ./search sift_base.fvecs sift_query.fvecs sift_groundtruth.ivecs hcnng_sift.ivecs 1 -1
 ```
-this execution should be shown something like:
+this execution should print something like:
 ```
 base read (1000000,128) ...
 queries read (10000,128)...
